@@ -1,0 +1,120 @@
+/*verde hito #7ebe13*/
+
+
+.background img {
+  width: 3.8em;
+  height: 4em;
+}
+.divider-infonavit{
+	background-color: #7ebe13; 
+	height:15px;
+}
+.sidenav li>a {
+    color: rgba(0,0,0,0.87);
+    display: block;
+    font-size: 14px;
+    font-weight: 500;
+    height: 48px;
+    line-height: 48px;
+    padding: 0 3px;
+}
+header, main, footer {
+	padding-left: 50px;
+}
+@media only screen and (max-width : 992px) {
+	header, main, footer {
+		padding-left: 0;
+	}
+}
+.logo-nav{
+	width: 3.4em;
+}
+.sidenav{
+	width: 50px;
+}
+.i-large{
+    font-size: 2.5rem !important;
+}
+.i-medium{
+    font-size: 2.3rem !important;
+}
+.i-small{
+    font-size: 1.2rem !important;
+}
+.i-tiny{
+    font-size: 1rem !important;
+}
+.kpi-xl{
+	height: 600px;
+}
+.kpi-l{
+	height: 500px;
+}
+.kpi-m{
+	height: 400px;
+}
+.kpi-s{
+	height: 300px;
+}
+.kpi-xs{
+	height: 200px;
+}
+.kpiin-xs{
+	height: 50px;
+}
+.kpi-xs-matriz{
+	height: 50px;
+}
+.kpi-xs-home{
+	height: 50px;
+}
+@media only screen and (min-width: 601px)
+main >.container, body>.page-footer>.container, .top-nav>.container, #index-banner>.container {
+    width: 90%;
+}
+@media only screen and (min-width: 993px)
+.container {
+    width: 70%;
+}
+@media only screen and (min-width: 601px)
+.container {
+    width: 85%;
+}
+.container {
+    margin: 0 auto;
+    max-width: 1920px;
+    width: 95%;
+}
+.card .card-action {
+	padding: 0px;
+}
+
+nav .brand-logo {
+    position: absolute;
+    color: #fff;
+    display: inline-block;
+    font-size: 1.6rem;
+    padding: 0;
+}
+.kpi-in-card{
+	padding: 0px !important;
+	margin: 0px !important;
+}
+.kpi-in-tittle{
+	font-size: 12px !important;
+}
+.kpi-in-row{
+	margin: 0px !important;
+}
+.card-action{
+	border-radius: 1em !important;
+}
+.card{
+	border-radius: 1em !important;
+}
+
+/*
+.qvplaceholder, .qvobject {
+height: 300px;
+}
+*/
